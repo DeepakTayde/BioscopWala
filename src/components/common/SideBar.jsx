@@ -4,7 +4,7 @@ import { BiSolidHome, BiSolidMoviePlay } from "react-icons/bi";
 import {
   BIOSCOPWALA_CATEGORIES_LINKS,
   BIOSCOPWALA_GENRE_LINKS,
-  BIOSCOPWALA_SITE_LINKS,
+  // BIOSCOPWALA_SITE_LINKS,
 } from "../../lib/constants/navigation";
 import classNames from "classnames";
 

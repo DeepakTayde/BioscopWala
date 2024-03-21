@@ -28,6 +28,9 @@ const Layout = () => {
           <Header />
         </div>
         <div>{<Outlet />}</div>
+        <div className=" bg-sky-300">
+        <Footer />
+      </div>
       </div>
     </div>
   );
